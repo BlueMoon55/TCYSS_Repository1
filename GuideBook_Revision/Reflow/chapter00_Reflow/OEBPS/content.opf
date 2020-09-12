@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 15.0.2" />
+		<meta name="cover" content="x1.png" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>chapter00_Reflow</dc:title>
+		<dc:date>2020-03-05T05:01:30Z</dc:date>
+		<dc:language>ja-JP</dc:language>
+		<meta property="dcterms:modified">2020-03-05T05:01:30Z</meta>
+		<dc:identifier id="bookid">urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b</dc:identifier>
+	</metadata>
+	<manifest>
+		<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter00" href="chapter00.xhtml" media-type="application/xhtml+xml" />
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="x001.png" href="image/001.png" media-type="image/png" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" properties="cover-image" />
+		<item id="H2.png" href="image/H2.png" media-type="image/png" />
+		<item id="N-2.png" href="image/N-2.png" media-type="image/png" />
+		<item id="P2.png" href="image/P2.png" media-type="image/png" />
+		<item id="P3.png" href="image/P3.png" media-type="image/png" />
+		<item id="P4.png" href="image/P4.png" media-type="image/png" />
+		<item id="P41.png" href="image/P41.png" media-type="image/png" />
+		<item id="P5.png" href="image/P5.png" media-type="image/png" />
+		<item id="P6.png" href="image/P6.png" media-type="image/png" />
+		<item id="P7.png" href="image/P7.png" media-type="image/png" />
+		<item id="suguyarou.png" href="image/suguyarou.png" media-type="image/png" />
+		<item id="title2.png" href="image/title2.png" media-type="image/png" />
+		<item id="第1章扉.png" href="image/%E7%AC%AC1%E7%AB%A0%E6%89%89.png" media-type="image/png" />
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cover" linear="no" />
+		<itemref idref="chapter00" />
+	</spine>
+	<guide>
+		<reference type="cover" href="cover.xhtml" title="Cover" />
+	</guide>
+</package>

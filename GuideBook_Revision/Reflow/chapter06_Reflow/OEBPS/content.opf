@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 15.0.2" />
+		<meta name="cover" content="x1.png" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>chapter06_Reflow</dc:title>
+		<dc:date>2020-03-05T05:31:44Z</dc:date>
+		<dc:language>en-US</dc:language>
+		<dc:language>ja-JP</dc:language>
+		<meta property="dcterms:modified">2020-03-05T05:31:44Z</meta>
+		<dc:identifier id="bookid">urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b</dc:identifier>
+	</metadata>
+	<manifest>
+		<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter06" href="chapter06.xhtml" media-type="application/xhtml+xml" />
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" properties="cover-image" />
+		<item id="x2.png" href="image/2.png" media-type="image/png" />
+		<item id="x6-2_P167.png" href="image/6-2_P167.png" media-type="image/png" />
+		<item id="check.png" href="image/check.png" media-type="image/png" />
+		<item id="check_1.png" href="image/check_1.png" media-type="image/png" />
+		<item id="image2.jpg" href="image/image2.jpg" media-type="image/jpeg" />
+		<item id="P164.png" href="image/P164.png" media-type="image/png" />
+		<item id="P170上.png" href="image/P170%E4%B8%8A.png" media-type="image/png" />
+		<item id="P170下.png" href="image/P170%E4%B8%8B.png" media-type="image/png" />
+		<item id="P171上.png" href="image/P171%E4%B8%8A.png" media-type="image/png" />
+		<item id="P171下.png" href="image/P171%E4%B8%8B.png" media-type="image/png" />
+		<item id="P171中.png" href="image/P171%E4%B8%AD.png" media-type="image/png" />
+		<item id="p173_プライバシーマーク.png" href="image/p173_%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%AF.png" media-type="image/png" />
+		<item id="P177.png" href="image/P177.png" media-type="image/png" />
+		<item id="p182_64-12.png" href="image/p182_64-12.png" media-type="image/png" />
+		<item id="p183_64-12.png" href="image/p183_64-12.png" media-type="image/png" />
+		<item id="suguyarou.png" href="image/suguyarou.png" media-type="image/png" />
+		<item id="T_P173.png" href="image/T_P173.png" media-type="image/png" />
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cover" linear="no" />
+		<itemref idref="chapter06" />
+	</spine>
+	<guide>
+		<reference type="cover" href="cover.xhtml" title="Cover" />
+	</guide>
+</package>

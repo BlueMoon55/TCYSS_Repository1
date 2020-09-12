@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 15.0.2" />
+		<meta name="cover" content="x1.png" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>H1-4_color_Reflow</dc:title>
+		<dc:date>2020-03-05T05:34:08Z</dc:date>
+		<dc:language>en</dc:language>
+		<meta property="dcterms:modified">2020-03-05T05:34:08Z</meta>
+		<dc:identifier id="bookid">urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b</dc:identifier>
+	</metadata>
+	<manifest>
+		<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml" />
+		<item id="H1-4_color" href="H1-4_color.xhtml" media-type="application/xhtml+xml" />
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" properties="cover-image" />
+		<item id="x170729_golgo13_h1_h4.png" href="image/170729_golgo13_h1_h4.png" media-type="image/png" />
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cover" linear="no" />
+		<itemref idref="H1-4_color" />
+	</spine>
+	<guide>
+		<reference type="cover" href="cover.xhtml" title="Cover" />
+	</guide>
+</package>

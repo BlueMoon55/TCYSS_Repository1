@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 15.0.1" />
+		<meta name="cover" content="x1.png" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>chapter01</dc:title>
+		<dc:date>2020-02-12T07:51:30Z</dc:date>
+		<dc:language>en-US</dc:language>
+		<dc:language>ja-JP</dc:language>
+		<meta property="dcterms:modified">2020-02-12T07:51:30Z</meta>
+		<dc:identifier id="bookid">urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b</dc:identifier>
+		<!--fixed-layout options-->
+		<meta property="rendition:layout">pre-paginated</meta>
+		<meta property="rendition:orientation">landscape</meta>
+		<meta property="rendition:spread">both</meta>
+	</metadata>
+	<manifest>
+		<item id="chapter01-1" href="chapter01-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter01-2" href="chapter01-2.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter01-3" href="chapter01-3.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter01-4" href="chapter01-4.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter01-5" href="chapter01-5.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter01-6" href="chapter01-6.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter01-7" href="chapter01-7.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter01-8" href="chapter01-8.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter01-9" href="chapter01-9.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter01-10" href="chapter01-10.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter01-11" href="chapter01-11.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter01-12" href="chapter01-12.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter01-13" href="chapter01-13.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter01-14" href="chapter01-14.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter01-15" href="chapter01-15.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter01-16" href="chapter01-16.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter01-17" href="chapter01-17.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter01-18" href="chapter01-18.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter01-19" href="chapter01-19.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter01-20" href="chapter01-20.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter01-21" href="chapter01-21.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter01-22" href="chapter01-22.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter01-23" href="chapter01-23.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter01-24" href="chapter01-24.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter01-25" href="chapter01-25.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter01-26" href="chapter01-26.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter01-27" href="chapter01-27.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter01-28" href="chapter01-28.xhtml" media-type="application/xhtml+xml" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
+		<item id="BostonTraffic.ttf" href="font/BostonTraffic.ttf" media-type="application/x-font-ttf" />
+		<item id="x01-01_1.png" href="image/01-01_1.png" media-type="image/png" />
+		<item id="x01-04_2.png" href="image/01-04_2.png" media-type="image/png" />
+		<item id="x01-05_04.png" href="image/01-05_04.png" media-type="image/png" />
+		<item id="x01-05_1.png" href="image/01-05_1.png" media-type="image/png" />
+		<item id="x01-06_01.png" href="image/01-06_01.png" media-type="image/png" />
+		<item id="x01-06_2.png" href="image/01-06_2.png" media-type="image/png" />
+		<item id="x01-08_2.png" href="image/01-08_2.png" media-type="image/png" />
+		<item id="x01-09_02.png" href="image/01-09_02.png" media-type="image/png" />
+		<item id="x01-09_1.png" href="image/01-09_1.png" media-type="image/png" />
+		<item id="x01-09_11.png" href="image/01-09_11.png" media-type="image/png" />
+		<item id="x01-09_12.png" href="image/01-09_12.png" media-type="image/png" />
+		<item id="x01-11_03.png" href="image/01-11_03.png" media-type="image/png" />
+		<item id="x01-12_1.png" href="image/01-12_1.png" media-type="image/png" />
+		<item id="x1-07_2.png" href="image/1-07_2.png" media-type="image/png" />
+		<item id="x1-07_3.png" href="image/1-07_3.png" media-type="image/png" />
+		<item id="x1-2-1.png" href="image/1-2-1.png" media-type="image/png" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" properties="cover-image" />
+		<item id="x10.png" href="image/10.png" media-type="image/png" />
+		<item id="x109.png" href="image/109.png" media-type="image/png" />
+		<item id="x11.png" href="image/11.png" media-type="image/png" />
+		<item id="x111.png" href="image/111.png" media-type="image/png" />
+		<item id="x12.png" href="image/12.png" media-type="image/png" />
+		<item id="x13.png" href="image/13.png" media-type="image/png" />
+		<item id="x14.png" href="image/14.png" media-type="image/png" />
+		<item id="x15.png" href="image/15.png" media-type="image/png" />
+		<item id="x16.png" href="image/16.png" media-type="image/png" />
+		<item id="x166.png" href="image/166.png" media-type="image/png" />
+		<item id="x169.png" href="image/169.png" media-type="image/png" />
+		<item id="x17.png" href="image/17.png" media-type="image/png" />
+		<item id="x19.png" href="image/19.png" media-type="image/png" />
+		<item id="x1章17.png" href="image/1%E7%AB%A017.png" media-type="image/png" />
+		<item id="x2.png" href="image/2.png" media-type="image/png" />
+		<item id="x20.png" href="image/20.png" media-type="image/png" />
+		<item id="x21.png" href="image/21.png" media-type="image/png" />
+		<item id="x224.png" href="image/224.png" media-type="image/png" />
+		<item id="x225.png" href="image/225.png" media-type="image/png" />
+		<item id="x24.png" href="image/24.png" media-type="image/png" />
+		<item id="x25.png" href="image/25.png" media-type="image/png" />
+		<item id="x26.png" href="image/26.png" media-type="image/png" />
+		<item id="x27.png" href="image/27.png" media-type="image/png" />
+		<item id="x28.png" href="image/28.png" media-type="image/png" />
+		<item id="x280.png" href="image/280.png" media-type="image/png" />
+		<item id="x335.png" href="image/335.png" media-type="image/png" />
+		<item id="x370.png" href="image/370.png" media-type="image/png" />
+		<item id="x371.png" href="image/371.png" media-type="image/png" />
+		<item id="x372.png" href="image/372.png" media-type="image/png" />
+		<item id="x374.png" href="image/374.png" media-type="image/png" />
+		<item id="x376.png" href="image/376.png" media-type="image/png" />
+		<item id="x377.png" href="image/377.png" media-type="image/png" />
+		<item id="x378.png" href="image/378.png" media-type="image/png" />
+		<item id="x38.png" href="image/38.png" media-type="image/png" />
+		<item id="x397.png" href="image/397.png" media-type="image/png" />
+		<item id="x399.png" href="image/399.png" media-type="image/png" />
+		<item id="x4.png" href="image/4.png" media-type="image/png" />
+		<item id="x40.png" href="image/40.png" media-type="image/png" />
+		<item id="x401.png" href="image/401.png" media-type="image/png" />
+		<item id="x42.png" href="image/42.png" media-type="image/png" />
+		<item id="x437.png" href="image/437.png" media-type="image/png" />
+		<item id="x439.png" href="image/439.png" media-type="image/png" />
+		<item id="x44.png" href="image/44.png" media-type="image/png" />
+		<item id="x440.png" href="image/440.png" media-type="image/png" />
+		<item id="x441.png" href="image/441.png" media-type="image/png" />
+		<item id="x444.png" href="image/444.png" media-type="image/png" />
+		<item id="x445.png" href="image/445.png" media-type="image/png" />
+		<item id="x446.png" href="image/446.png" media-type="image/png" />
+		<item id="x46.png" href="image/46.png" media-type="image/png" />
+		<item id="x466.png" href="image/466.png" media-type="image/png" />
+		<item id="x469.png" href="image/469.png" media-type="image/png" />
+		<item id="x48.png" href="image/48.png" media-type="image/png" />
+		<item id="x5.png" href="image/5.png" media-type="image/png" />
+		<item id="x50.png" href="image/50.png" media-type="image/png" />
+		<item id="x524.png" href="image/524.png" media-type="image/png" />
+		<item id="x559.png" href="image/559.png" media-type="image/png" />
+		<item id="x56.png" href="image/56.png" media-type="image/png" />
+		<item id="x580.png" href="image/580.png" media-type="image/png" />
+		<item id="x6.png" href="image/6.png" media-type="image/png" />
+		<item id="x635.png" href="image/635.png" media-type="image/png" />
+		<item id="x691.png" href="image/691.png" media-type="image/png" />
+		<item id="x7.png" href="image/7.png" media-type="image/png" />
+		<item id="x709.png" href="image/709.png" media-type="image/png" />
+		<item id="x710.png" href="image/710.png" media-type="image/png" />
+		<item id="x711.png" href="image/711.png" media-type="image/png" />
+		<item id="x714.png" href="image/714.png" media-type="image/png" />
+		<item id="x715.png" href="image/715.png" media-type="image/png" />
+		<item id="x716.png" href="image/716.png" media-type="image/png" />
+		<item id="x717.png" href="image/717.png" media-type="image/png" />
+		<item id="x718.png" href="image/718.png" media-type="image/png" />
+		<item id="x726.png" href="image/726.png" media-type="image/png" />
+		<item id="x744.png" href="image/744.png" media-type="image/png" />
+		<item id="x746.png" href="image/746.png" media-type="image/png" />
+		<item id="x763.png" href="image/763.png" media-type="image/png" />
+		<item id="x764.png" href="image/764.png" media-type="image/png" />
+		<item id="x765.png" href="image/765.png" media-type="image/png" />
+		<item id="x766.png" href="image/766.png" media-type="image/png" />
+		<item id="x767.png" href="image/767.png" media-type="image/png" />
+		<item id="x769.png" href="image/769.png" media-type="image/png" />
+		<item id="x770.png" href="image/770.png" media-type="image/png" />
+		<item id="x772.png" href="image/772.png" media-type="image/png" />
+		<item id="x775.png" href="image/775.png" media-type="image/png" />
+		<item id="x776.png" href="image/776.png" media-type="image/png" />
+		<item id="x777.png" href="image/777.png" media-type="image/png" />
+		<item id="x784.png" href="image/784.png" media-type="image/png" />
+		<item id="x786.png" href="image/786.png" media-type="image/png" />
+		<item id="x8.png" href="image/8.png" media-type="image/png" />
+		<item id="x9.png" href="image/9.png" media-type="image/png" />
+		<item id="background.jpg" href="image/background.jpg" media-type="image/jpeg" />
+		<item id="guide01.png" href="image/guide01.png" media-type="image/png" />
+		<item id="P19.png" href="image/P19.png" media-type="image/png" />
+		<item id="P21_上-下.png" href="image/P21_%E4%B8%8A%E3%83%BB%E4%B8%8B.png" media-type="image/png" />
+		<item id="P21_上-下1.png" href="image/P21_%E4%B8%8A%E3%83%BB%E4%B8%8B1.png" media-type="image/png" />
+		<item id="P22.png" href="image/P22.png" media-type="image/png" />
+		<item id="P24.png" href="image/P24.png" media-type="image/png" />
+		<item id="P31.png" href="image/P31.png" media-type="image/png" />
+		<item id="P35.png" href="image/P35.png" media-type="image/png" />
+		<item id="P37.png" href="image/P37.png" media-type="image/png" />
+		<item id="P38.png" href="image/P38.png" media-type="image/png" />
+		<item id="P39S.png" href="image/P39S.png" media-type="image/png" />
+		<item id="P41.png" href="image/P41.png" media-type="image/png" />
+		<item id="point1.png" href="image/point1.png" media-type="image/png" />
+		<item id="point2.png" href="image/point2.png" media-type="image/png" />
+		<item id="point21.png" href="image/point21.png" media-type="image/png" />
+		<item id="point3.png" href="image/point3.png" media-type="image/png" />
+		<item id="第2章扉.png" href="image/%E7%AC%AC2%E7%AB%A0%E6%89%89.png" media-type="image/png" />
+	</manifest>
+	<spine>
+		<itemref idref="chapter01-1" properties="page-spread-left" />
+		<itemref idref="chapter01-2" properties="page-spread-right" />
+		<itemref idref="chapter01-3" properties="page-spread-left" />
+		<itemref idref="chapter01-4" properties="page-spread-right" />
+		<itemref idref="chapter01-5" properties="page-spread-left" />
+		<itemref idref="chapter01-6" properties="page-spread-right" />
+		<itemref idref="chapter01-7" properties="page-spread-left" />
+		<itemref idref="chapter01-8" properties="page-spread-right" />
+		<itemref idref="chapter01-9" properties="page-spread-left" />
+		<itemref idref="chapter01-10" properties="page-spread-right" />
+		<itemref idref="chapter01-11" properties="page-spread-left" />
+		<itemref idref="chapter01-12" properties="page-spread-right" />
+		<itemref idref="chapter01-13" properties="page-spread-left" />
+		<itemref idref="chapter01-14" properties="page-spread-right" />
+		<itemref idref="chapter01-15" properties="page-spread-left" />
+		<itemref idref="chapter01-16" properties="page-spread-right" />
+		<itemref idref="chapter01-17" properties="page-spread-left" />
+		<itemref idref="chapter01-18" properties="page-spread-right" />
+		<itemref idref="chapter01-19" properties="page-spread-left" />
+		<itemref idref="chapter01-20" properties="page-spread-right" />
+		<itemref idref="chapter01-21" properties="page-spread-left" />
+		<itemref idref="chapter01-22" properties="page-spread-right" />
+		<itemref idref="chapter01-23" properties="page-spread-left" />
+		<itemref idref="chapter01-24" properties="page-spread-right" />
+		<itemref idref="chapter01-25" properties="page-spread-left" />
+		<itemref idref="chapter01-26" properties="page-spread-right" />
+		<itemref idref="chapter01-27" properties="page-spread-left" />
+		<itemref idref="chapter01-28" properties="page-spread-right" />
+	</spine>
+</package>

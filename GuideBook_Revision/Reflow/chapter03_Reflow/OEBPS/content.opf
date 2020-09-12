@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 15.0.2" />
+		<meta name="cover" content="x1.png" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>chapter03_Reflow</dc:title>
+		<dc:date>2020-03-05T05:19:55Z</dc:date>
+		<dc:language>ja-JP</dc:language>
+		<meta property="dcterms:modified">2020-03-05T05:19:55Z</meta>
+		<dc:identifier id="bookid">urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b</dc:identifier>
+	</metadata>
+	<manifest>
+		<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter03" href="chapter03.xhtml" media-type="application/xhtml+xml" />
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="x03-13.png" href="image/03-13.png" media-type="image/png" />
+		<item id="x03-15_2.png" href="image/03-15_2.png" media-type="image/png" />
+		<item id="x03-15_3.png" href="image/03-15_3.png" media-type="image/png" />
+		<item id="x03-15_4.png" href="image/03-15_4.png" media-type="image/png" />
+		<item id="x03-16_1.png" href="image/03-16_1.png" media-type="image/png" />
+		<item id="x03-5.png" href="image/03-5.png" media-type="image/png" />
+		<item id="x03-7.png" href="image/03-7.png" media-type="image/png" />
+		<item id="x03-8.png" href="image/03-8.png" media-type="image/png" />
+		<item id="x0307-1.jpg" href="image/0307-1.jpg" media-type="image/jpeg" />
+		<item id="x0307-2.png" href="image/0307-2.png" media-type="image/png" />
+		<item id="x0307-3.png" href="image/0307-3.png" media-type="image/png" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" properties="cover-image" />
+		<item id="x13.png" href="image/13.png" media-type="image/png" />
+		<item id="x14.png" href="image/14.png" media-type="image/png" />
+		<item id="x15.png" href="image/15.png" media-type="image/png" />
+		<item id="x16.png" href="image/16.png" media-type="image/png" />
+		<item id="x17.png" href="image/17.png" media-type="image/png" />
+		<item id="x2.png" href="image/2.png" media-type="image/png" />
+		<item id="x3-10-1.png" href="image/3-10-1.png" media-type="image/png" />
+		<item id="x3-10-2.png" href="image/3-10-2.png" media-type="image/png" />
+		<item id="x3-10-3.png" href="image/3-10-3.png" media-type="image/png" />
+		<item id="x3-11_コラム_logo.png" href="image/3-11_%E3%82%B3%E3%83%A9%E3%83%A0_logo.png" media-type="image/png" />
+		<item id="x3-14-1.png" href="image/3-14-1.png" media-type="image/png" />
+		<item id="x3-17-1.png" href="image/3-17-1.png" media-type="image/png" />
+		<item id="x3-17-3.png" href="image/3-17-3.png" media-type="image/png" />
+		<item id="x3-17-4.png" href="image/3-17-4.png" media-type="image/png" />
+		<item id="x3-17-5.png" href="image/3-17-5.png" media-type="image/png" />
+		<item id="x3-17_自社診断シート.png" href="image/3-17_%E8%87%AA%E7%A4%BE%E8%A8%BA%E6%96%AD%E3%82%B7%E3%83%BC%E3%83%88.png" media-type="image/png" />
+		<item id="x3-19-1.png" href="image/3-19-1.png" media-type="image/png" />
+		<item id="x3-19-2.png" href="image/3-19-2.png" media-type="image/png" />
+		<item id="x3.png" href="image/3.png" media-type="image/png" />
+		<item id="x5.png" href="image/5.png" media-type="image/png" />
+		<item id="x7.png" href="image/7.png" media-type="image/png" />
+		<item id="x8.png" href="image/8.png" media-type="image/png" />
+		<item id="x9.png" href="image/9.png" media-type="image/png" />
+		<item id="action1.png" href="image/action1.png" media-type="image/png" />
+		<item id="action2.png" href="image/action2.png" media-type="image/png" />
+		<item id="P102.png" href="image/P102.png" media-type="image/png" />
+		<item id="P103.png" href="image/P103.png" media-type="image/png" />
+		<item id="P104.png" href="image/P104.png" media-type="image/png" />
+		<item id="P105.png" href="image/P105.png" media-type="image/png" />
+		<item id="P106.png" href="image/P106.png" media-type="image/png" />
+		<item id="P107.png" href="image/P107.png" media-type="image/png" />
+		<item id="P108.png" href="image/P108.png" media-type="image/png" />
+		<item id="P112.png" href="image/P112.png" media-type="image/png" />
+		<item id="P114.png" href="image/P114.png" media-type="image/png" />
+		<item id="P116.png" href="image/P116.png" media-type="image/png" />
+		<item id="P118.png" href="image/P118.png" media-type="image/png" />
+		<item id="P122.png" href="image/P122.png" media-type="image/png" />
+		<item id="P123.png" href="image/P123.png" media-type="image/png" />
+		<item id="P126.png" href="image/P126.png" media-type="image/png" />
+		<item id="P80.png" href="image/P80.png" media-type="image/png" />
+		<item id="P81.png" href="image/P81.png" media-type="image/png" />
+		<item id="P82-83.png" href="image/P82-83.png" media-type="image/png" />
+		<item id="P82-831.png" href="image/P82-831.png" media-type="image/png" />
+		<item id="P84.png" href="image/P84.png" media-type="image/png" />
+		<item id="P85.png" href="image/P85.png" media-type="image/png" />
+		<item id="P87.png" href="image/P87.png" media-type="image/png" />
+		<item id="P89上.png" href="image/P89%E4%B8%8A.png" media-type="image/png" />
+		<item id="P89下.png" href="image/P89%E4%B8%8B.png" media-type="image/png" />
+		<item id="P89中.png" href="image/P89%E4%B8%AD.png" media-type="image/png" />
+		<item id="P90.png" href="image/P90.png" media-type="image/png" />
+		<item id="P92.png" href="image/P92.png" media-type="image/png" />
+		<item id="P94.png" href="image/P94.png" media-type="image/png" />
+		<item id="P95上.png" href="image/P95%E4%B8%8A.png" media-type="image/png" />
+		<item id="P95下.png" href="image/P95%E4%B8%8B.png" media-type="image/png" />
+		<item id="P96.png" href="image/P96.png" media-type="image/png" />
+		<item id="P97下.png" href="image/P97%E4%B8%8B.png" media-type="image/png" />
+		<item id="point1.png" href="image/point1.png" media-type="image/png" />
+		<item id="point11.png" href="image/point11.png" media-type="image/png" />
+		<item id="point2.png" href="image/point2.png" media-type="image/png" />
+		<item id="point3.png" href="image/point3.png" media-type="image/png" />
+		<item id="T_3-19.png" href="image/T_3-19.png" media-type="image/png" />
+		<item id="T_p089-1.png" href="image/T_p089-1.png" media-type="image/png" />
+		<item id="T_p119-1.png" href="image/T_p119-1.png" media-type="image/png" />
+		<item id="T_p126-1.png" href="image/T_p126-1.png" media-type="image/png" />
+		<item id="第4章扉.png" href="image/%E7%AC%AC4%E7%AB%A0%E6%89%89.png" media-type="image/png" />
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cover" linear="no" />
+		<itemref idref="chapter03" />
+	</spine>
+	<guide>
+		<reference type="cover" href="cover.xhtml" title="Cover" />
+	</guide>
+</package>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 15.0.2" />
+		<meta name="cover" content="x1.png" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>chapter05_Reflow</dc:title>
+		<dc:date>2020-03-05T05:28:40Z</dc:date>
+		<dc:language>ja-JP</dc:language>
+		<meta property="dcterms:modified">2020-03-05T05:28:40Z</meta>
+		<dc:identifier id="bookid">urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b</dc:identifier>
+	</metadata>
+	<manifest>
+		<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter05" href="chapter05.xhtml" media-type="application/xhtml+xml" />
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" properties="cover-image" />
+		<item id="x5-8-Act1-Act2修正.png" href="image/5-8-Act1%2CAct2%E4%BF%AE%E6%AD%A3.png" media-type="image/png" />
+		<item id="x5-8-Act1-Act2修正1.png" href="image/5-8-Act1%2CAct2%E4%BF%AE%E6%AD%A31.png" media-type="image/png" />
+		<item id="action1.png" href="image/action1.png" media-type="image/png" />
+		<item id="action2.png" href="image/action2.png" media-type="image/png" />
+		<item id="action3.png" href="image/action3.png" media-type="image/png" />
+		<item id="action31.png" href="image/action31.png" media-type="image/png" />
+		<item id="P150.png" href="image/P150.png" media-type="image/png" />
+		<item id="P151.png" href="image/P151.png" media-type="image/png" />
+		<item id="P152.png" href="image/P152.png" media-type="image/png" />
+		<item id="P153.png" href="image/P153.png" media-type="image/png" />
+		<item id="P154.png" href="image/P154.png" media-type="image/png" />
+		<item id="P155.png" href="image/P155.png" media-type="image/png" />
+		<item id="P156上.png" href="image/P156%E4%B8%8A.png" media-type="image/png" />
+		<item id="P156下.png" href="image/P156%E4%B8%8B.png" media-type="image/png" />
+		<item id="P157.png" href="image/P157.png" media-type="image/png" />
+		<item id="P158上.png" href="image/P158%E4%B8%8A.png" media-type="image/png" />
+		<item id="P158下.png" href="image/P158%E4%B8%8B.png" media-type="image/png" />
+		<item id="P159上.png" href="image/P159%E4%B8%8A.png" media-type="image/png" />
+		<item id="P159下.png" href="image/P159%E4%B8%8B.png" media-type="image/png" />
+		<item id="P161下.png" href="image/P161%E4%B8%8B.png" media-type="image/png" />
+		<item id="P161修正.png" href="image/P161%E4%BF%AE%E6%AD%A3.png" media-type="image/png" />
+		<item id="P162_上中下.png" href="image/P162_%E4%B8%8A%E4%B8%AD%E4%B8%8B.png" media-type="image/png" />
+		<item id="第6章扉.png" href="image/%E7%AC%AC6%E7%AB%A0%E6%89%89.png" media-type="image/png" />
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cover" linear="no" />
+		<itemref idref="chapter05" />
+	</spine>
+	<guide>
+		<reference type="cover" href="cover.xhtml" title="Cover" />
+	</guide>
+</package>
